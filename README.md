@@ -36,4 +36,4 @@ install whatever package you want.
 pip install ipykernel
 python -m ipykernel install --user --name=yogurt
 ```
-Then you should be able to switch kernels in the notebook. Just go to ipython notebook menu, click *Kernel -> Change kernel* and change the kernel to *yogurt*.
+Then you should be able to switch kernels in the notebook. Just go to ipython notebook menu, click *Kernel -> Change kernel* and change the kernel to *yogurt*. (If you cannot see this option, just restart the notebook.)
