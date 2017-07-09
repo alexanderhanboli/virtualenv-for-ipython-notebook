@@ -1,0 +1,1 @@
+# virtualenv-for-ipython-notebook
